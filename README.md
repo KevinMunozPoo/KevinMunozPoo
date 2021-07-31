@@ -8,4 +8,4 @@ _______________________________________
 *In this repository I'm going to publish my projects that I'll be doing during my learning process.*
 _______________________________________
 
-📫 You can reach me through my [LinkedIn](https://linkedin.com/in/kevin-munoz-poo) or through my  email (Kevin.Munoz.Poo@gmail.com).
+📫 You can reach me through my email (Kevin.Munoz.Poo@gmail.com) or through my [LinkedIn](https://linkedin.com/in/kevin-munoz-poo).
